@@ -1,5 +1,7 @@
 # WeatherArm
 
+[Watch the demo video](https://drive.google.com/file/d/1zs9C_S0b5g_-WS9UpzbC0L-Om8n-tyCt/view?usp=sharing)
+
 This is a personal **Arduino UNO** learning project that uses a **joystick module**, **DHT11 sensor**, and a **servo motor**.
 
 The project was created to explore analog and digital inputs, serial communication, and sensor integration. It is not meant to solve a real-world problem, but rather to **practice and improve Arduino skills**.
